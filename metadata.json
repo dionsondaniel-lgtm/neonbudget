@@ -1,0 +1,5 @@
+{
+  "name": "NeonBudget",
+  "description": "A futuristic, offline-first PWA budget tracker with neon aesthetics and glassmorphism design.",
+  "requestFramePermissions": []
+}
